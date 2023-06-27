@@ -1,0 +1,41 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+body {
+  background-color: rgb(238, 238, 238);
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
+nav {
+  display: flex;
+  padding: 1rem;
+  justify-content: space-between;
+  align-items: center;
+  position: fixed;
+  top: 0;
+  right: 0;
+  left: 0;
+  backdrop-filter: blur(0.5rem);
+}
+
+li {
+  list-style-type: none;
+}
+
+nav > ul {
+  display: flex;
+  gap: 1rem;
+}
+
+nav > aside {
+  position: absolute;
+}
+
