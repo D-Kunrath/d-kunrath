@@ -2,18 +2,12 @@
 
 Web Developer, Teacher.
 
-Frontend:
-- ReactJS;
-- Typescript;
-- Javascript;
-- HTML;
-- CSS;
-- Styling libraries/packages.
-
-Backend:
-- NodeJS;
-- Typescript;
-- MongoDB
-- Mongoose;
-- ExpressJS;
-- JWT;
+| Frontend | Backend |
+|----------|---------|
+| ReactJS  | NodeJS  |
+| Typescript  | Typescript  |
+| Javascript  | ExpressJS  |
+| HTML  | REST APIs  |
+| CSS  | MongoDB |
+| Axios | Mongoose  |
+| Styling libraries/packages | JWT |
