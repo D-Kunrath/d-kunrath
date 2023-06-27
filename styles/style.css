@@ -1,3 +1,10 @@
+:root {
+  --height-nav: 10vh;
+  --color-base: #ffd9d9;
+  --color-base-alt: #feeeee;
+  --color-base-dark: #dfa9a9;
+}
+
 * {
   padding: 0;
   margin: 0;
@@ -6,7 +13,7 @@
 }
 
 body {
-  background-color: rgb(238, 238, 238);
+  background-image: linear-gradient(111deg, var(--color-base) 30%, var(--color-base-alt) 51%, var(--color-base-dark) 100%);
 }
 
 a {
@@ -17,13 +24,22 @@ a {
 nav {
   display: flex;
   padding: 1rem;
-  justify-content: space-between;
+  justify-content: center;
   align-items: center;
   position: fixed;
   top: 0;
   right: 0;
   left: 0;
-  backdrop-filter: blur(0.5rem);
+  backdrop-filter: blur(0.8rem);
+  height: var(--height-nav);
+}
+
+h1 {
+  font-size: 3rem;
+}
+
+h2 {
+  font-size: 2rem;
 }
 
 li {
@@ -32,10 +48,44 @@ li {
 
 nav > ul {
   display: flex;
-  gap: 1rem;
+  gap: 3rem;
+  font-size: 2rem;
 }
 
 nav > aside {
   position: absolute;
 }
 
+section {
+  min-height: calc(100vh - var(--height-nav));
+  scroll-margin-top: var(--height-nav);
+}
+
+#about {
+  margin-top: var(--height-nav);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 3rem;
+}
+
+#about p {
+  font-size: 1.4rem;
+  max-width: 33rem;
+  margin-top: 1rem;
+}
+
+#about img {
+  width: 20rem;
+  aspect-ratio: 1;
+  border-radius: 50%;
+  box-shadow: -3px 5px 15px 8px rgba(0, 0, 0, 0.5);
+}
+
+
+
+@media screen and (prefers-reduced-motion: no-preference) {
+	html {
+    scroll-behavior: smooth;
+  }
+}
