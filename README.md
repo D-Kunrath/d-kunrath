@@ -3,9 +3,9 @@
 Web Developer, Teacher and soon-to-be computer scientist!
 
 ## Career
-- Web Dev Teacher Assistant @ [Ironhack São Paulo](www.ironhack.com) [2020 - 2022]
-- Web Dev Teacher @ [Ironhack São Paulo](www.ironhack.com) [2022 - 2023]
-- Frontend Dev @ [PEFISA Internet Banking](ibpj.pefisa.com.br) [2021 - 2023]
+- Web Dev Teacher Assistant @ [Ironhack São Paulo](https://www.ironhack.com) [2020 - 2022]
+- Web Dev Teacher @ [Ironhack São Paulo](https://www.ironhack.com) [2022 - 2023]
+- Frontend Dev @ [PEFISA Internet Banking](https://ibpj.pefisa.com.br) [2021 - 2023]
 
 ## Stacks
 ### Frontend
