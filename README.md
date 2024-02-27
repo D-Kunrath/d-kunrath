@@ -47,6 +47,6 @@ Web Developer, Teacher and soon-to-be computer scientist!
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=d-kunrath&show_icons=true&locale=en&layout=compact" alt="d-kunrath" /></p>
 
 ## Get in Touch
-[E-mail](mailto:dkunrath@gmail.com)
-[Daniel's Linkedin](https://www.linkedin.com/in/daniel-k-albanez)
-[Daniel's Portfolio](https://dev-dk.vercell.app)
+- [E-mail](mailto:dkunrath@gmail.com)
+- [Daniel's Linkedin](https://www.linkedin.com/in/daniel-k-albanez)
+- [Daniel's Portfolio](https://dev-dk.vercell.app)
