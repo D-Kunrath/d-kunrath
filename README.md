@@ -52,4 +52,5 @@ Web Developer, Teacher and soon-to-be computer scientist!
 - [Daniel's Portfolio](https://dev-dk.vercell.app)
 
 ## Profiles
+- [Resume](https://docs.google.com/document/d/1zwv2ZEgJnrDIgUOPmd2O2APsDXJ4xPp0/edit?usp=sharing&ouid=109074247684945941612&rtpof=true&sd=true)
 - [Codewars](https://www.codewars.com/users/dKunrath)
