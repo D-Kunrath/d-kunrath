@@ -50,3 +50,6 @@ Web Developer, Teacher and soon-to-be computer scientist!
 - [E-mail](mailto:dkunrath@gmail.com)
 - [Daniel's Linkedin](https://www.linkedin.com/in/daniel-k-albanez)
 - [Daniel's Portfolio](https://dev-dk.vercell.app)
+
+## Profiles
+- [Codewars](https://www.codewars.com/users/dKunrath)
