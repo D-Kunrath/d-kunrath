@@ -3,9 +3,9 @@
 Web Developer, Teacher and soon-to-be computer scientist!
 
 ## Career
-- Web Dev Teacher Assistant @ [Ironhack São Paulo](https://www.ironhack.com) [2020 - 2022]
-- Web Dev Teacher @ [Ironhack São Paulo](https://www.ironhack.com) [2022 - 2023]
 - Frontend Dev @ [PEFISA Internet Banking](https://ibpj.pefisa.com.br) [2021 - 2023]
+- Web Dev Teacher @ [Ironhack São Paulo](https://www.ironhack.com) [2022 - 2023]
+- Web Dev Teacher Assistant @ [Ironhack São Paulo](https://www.ironhack.com) [2020 - 2022]
 
 ## Stacks
 ### Frontend
@@ -15,6 +15,8 @@ Web Developer, Teacher and soon-to-be computer scientist!
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Angular](https://img.shields.io/badge/Angular-0F0F11?style=for-the-badge&logo=angular&logoColor=DD0031)
+
 
 - #### Styling
 ![Bootstrap](https://img.shields.io/badge/-boostrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117)
